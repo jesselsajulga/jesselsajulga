@@ -6,12 +6,11 @@ I build practical software, network, and embedded systems — from web applicati
 
 ### What I Work With
 
-
-Languages       Python · JavaScript · PHP · Kotlin · SQL
-Web             React · Node.js · Laravel · Tailwind CSS
-Networking      Cisco · TCP/IP · pfSense · Active Directory
-Embedded / IoT  Raspberry Pi · Arduino · ESP32
-Tools           Git · GitHub · Linux · Windows
+* Languages       Python · JavaScript · PHP · Kotlin · SQL
+* Web             React · Node.js · Laravel · Tailwind CSS
+* Networking      Cisco · TCP/IP · pfSense · Active Directory
+* Embedded / IoT  Raspberry Pi · Arduino · ESP32
+* Tools           Git · GitHub · Linux · Windows
 
 ### Currently Learning
 
