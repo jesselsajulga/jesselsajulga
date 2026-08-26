@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jessel Rome Sajulga
 
-<!--
-**jesselsajulga/jesselsajulga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer | Developer | IT & Infrastructure**
 
-Here are some ideas to get you started:
+I build practical software, network, and embedded systems — from web applications and enterprise infrastructure to IoT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work With
+
+```text
+Languages       Python · JavaScript · PHP · Kotlin · SQL
+Web             React · Node.js · Laravel · Tailwind CSS
+Networking      Cisco · TCP/IP · pfSense · Active Directory
+Embedded / IoT  Raspberry Pi · Arduino · ESP32
+Tools           Git · GitHub · Linux · Windows
+```
+
+### Currently Learning
+
+* TypeScript
+* Docker
+* Supabase
+
+### Featured Work
+
+* **SapSense** — Multi-sensor IoT monitoring system for coconut sap harvesting
+* **Network & Security Lab** — Enterprise networking, firewall, and Active Directory environment
+* **IT Solutions** — Full-stack systems and infrastructure solutions developed during my IT internship
+
+### Connect
+
+[GitHub](https://github.com/jesselsajulga) · [LinkedIn](https://linkedin.com/in/jessel-rome-b-sajulga-b22b843a/) · [Email](mailto:sajulga.jessel123@gmail.com)
