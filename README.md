@@ -26,4 +26,4 @@ I build practical software, network, and embedded systems — from web applicati
 
 ### Connect
 
-[GitHub](https://github.com/jesselsajulga) · [LinkedIn](https://www.linkedin.com/in/jessel-rome-b-sajulga-b22b843a4/) · [Email](mailto:sajulga.jessel123@gmail.com)
+[GitHub](https://github.com/jesselsajulga) · [LinkedIn](https://www.linkedin.com/in/jessel-rome-b-sajulga-b22b843a4/) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=sajulga.jessel123@gmail.com)
